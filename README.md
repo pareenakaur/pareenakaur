@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pareenakaur, SG undergrad comp sci student and beginner programmer
-- 👀 I’m interested in web and app development, machine learning and AI. 
-- 🌱 I’m currently learning basic programming langs like Python, C and Java. I'm also learning HTML, CSS and Javascript in my free time! 
-- 💞️ I’m looking to collaborate on building apps, webpages, anything really! Love to explore anything and everything.
+- 👋 Hi, I’m @pareenakaur, SG undergrad comp sci student currently studying at Nanyang Technological University.
+- 👀 I’m interested in full-stack development, data science and AI. 
+- 🌱 I’m proficient in programming langs like Python and Java. I am learning to apply my programming skills to develop applications! For that, I am learning front-end using React and Angular. I am also learning pytorch for computer vision and tensorflow to build neural networks.
+- 💞️ I’m looking to collaborate on building apps, webpages, and more! Love to explore anything and everything.
 - 📫 You can reach me on telegram: @gubble_bum
 
 <!---
